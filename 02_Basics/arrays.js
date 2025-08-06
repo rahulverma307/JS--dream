@@ -25,3 +25,20 @@
 // const age = [45, 85, 98, 45, 78, 12]
 // console.log(age.splice(1, 2)); //[ 85, 98 ]
 // console.log(age); // it is change the original array//[45, 45, 78, 12]
+
+
+// const marvel_heros=["rahul","vivek","mohit","ironman"]
+// const dc_heros=["superman","ironman","spiderman"]
+// console.log(marvel_heros.push(dc_heros));
+
+// console.log(...marvel_heros,...dc_heros);
+
+
+// console.log(Array.isArray("Rahulverma"));// check value is array or not=>t/f
+// let arr="rahul verma"
+// console.log(Array.from(arr));// convert string into array
+// console.log(Array.split(arr))
+
+
+
+
